@@ -7,3 +7,6 @@ Developed persistent todo application with CRUD operations to track list of task
 - Used Arrays, Objects and their methods during todolist CRUD Operations, Persisted todo list state on page reloads using local storage methods.
 
 Technologies used: HTML, CSS, JS, Bootstrap
+
+
+visit: https://dineshgatla.github.io/todo-list-website/
